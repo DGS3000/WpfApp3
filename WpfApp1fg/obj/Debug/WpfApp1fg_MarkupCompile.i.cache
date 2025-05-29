@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\App.xaml
-2-1625588649
+3-125795067
 2-1957146511
-19-1818010145
+20587540621
 18-1738845427
-MainWindow.xaml;PWindow.xaml;
+AuthWindow.xaml;PWindow.xaml;Window1.xaml;
 
-False
+True
 

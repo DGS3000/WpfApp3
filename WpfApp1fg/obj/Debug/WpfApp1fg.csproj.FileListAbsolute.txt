@@ -5,13 +5,11 @@ C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\bin\Debug\EntityFramework.dll
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\bin\Debug\EntityFramework.xml
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.csproj.AssemblyReference.cache
-C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\MainWindow.g.cs
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\PWindow.g.cs
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\App.g.cs
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg_Content.g.cs
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg_MarkupCompile.cache
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg_MarkupCompile.lref
-C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\MainWindow.baml
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\PWindow.baml
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.g.resources
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.Properties.Resources.resources
@@ -20,3 +18,7 @@ C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.csproj.CoreC
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.csproj.Up2Date
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.exe
 C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\WpfApp1fg.pdb
+C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\AuthWindow.g.cs
+C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\Window1.g.cs
+C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\AuthWindow.baml
+C:\Users\dgraz\source\repos\WpfApp1fg\WpfApp1fg\obj\Debug\Window1.baml

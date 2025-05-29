@@ -74,5 +74,11 @@ namespace WpfApp1fg
                 MessageBox.Show("инвентарь добавлен!");
             }
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Window1 Window1 = new Window1();
+            Window1.Show();
+        }
     }
 }
